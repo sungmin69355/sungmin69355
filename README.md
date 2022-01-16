@@ -13,7 +13,7 @@
 ![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin69355&show_icons=true&theme=radical)[![Sungmin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin69355&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sungmin69355)
 
 
-🤩 Latest Blog Post
+😎 Latest Blog Post
 
 [2022/1/15 - 스프링에서 싱글톤 적용 시 주의 할 점! ⚠️](https://applepick.tistory.com/129) <br>
 [2022/1/12 - BeanFactory과 ApplicationContext는 왜 사용해야할까?](https://applepick.tistory.com/128) <br>
