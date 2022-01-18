@@ -15,6 +15,7 @@
 
 😎 Latest Blog Post
 
+[2022/1/17 - 의존관계 주입시 생성자 주입을 사용하자!](https://applepick.tistory.com/130) <br>
 [2022/1/15 - 스프링에서 싱글톤 적용 시 주의 할 점! ⚠️](https://applepick.tistory.com/129) <br>
 [2022/1/12 - BeanFactory과 ApplicationContext는 왜 사용해야할까?](https://applepick.tistory.com/128) <br>
 [2022/1/10 - Spring Bean 상속관계와 테스트코드[Juint5]](https://applepick.tistory.com/127) <br>
@@ -24,4 +25,3 @@
 [2021/12/29 - 서블릿의 라이프 사이클](https://applepick.tistory.com/123) <br>
 [2021/12/24 - 2021 회고록이라 쓰고 취준의 해라고 읽는다.](https://applepick.tistory.com/122) <br>
 [2021/12/14 - 인스타 팔로워 1만명이면 1년에 광고수익은 얼마일까?](https://applepick.tistory.com/121) <br>
-[2021/12/13 - mac OS에서 oracle 설정](https://applepick.tistory.com/120) <br>
