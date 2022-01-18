@@ -8,6 +8,8 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  schedule:
+    - cron:  '*/20 * * * *' # 주기적으로 실행하기 위한 스케줄링 - cron 설정
 
 jobs:
   build:
