@@ -12,8 +12,10 @@
 
 ![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin69355&show_icons=true&theme=radical)[![Sungmin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin69355&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sungmin69355)
 
+
 😎 Latest Blog Post
 
+[2022/1/25 - Bean의 생명주기 콜백](https://applepick.tistory.com/133) <br>
 [2022/1/20 - Bean 자동 주입 VS 수동 주입 어떤 걸 사용해야할까?](https://applepick.tistory.com/132) <br>
 [2022/1/19 - UnsatisfiedDependencyException 오류 해결!](https://applepick.tistory.com/131) <br>
 [2022/1/17 - 의존관계 주입시 생성자 주입을 사용하자!](https://applepick.tistory.com/130) <br>
@@ -23,4 +25,3 @@
 [2022/1/9 - Spring 컨테이너에 등록된 bean 조회하기 테스트 코드[Juint5]](https://applepick.tistory.com/126) <br>
 [2022/1/1 - 2022년 목표](https://applepick.tistory.com/125) <br>
 [2022/1/1 - [동시성 이슈해결] HashMap보다는 ConcurrentHashMap을 쓰자!](https://applepick.tistory.com/124) <br>
-[2021/12/29 - 서블릿의 라이프 사이클](https://applepick.tistory.com/123) <br>
