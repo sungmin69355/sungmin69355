@@ -1,5 +1,7 @@
 
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=sungmin github🎨&fontSize=70)
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -16,6 +18,7 @@
 
 😎 Latest Blog Post
 
+[2022/1/31 - Spring 빈 스코프를 알아보자♻️](https://applepick.tistory.com/137) <br>
 [2022/1/30 - http 정리 예정](https://applepick.tistory.com/136) <br>
 [2022/1/29 - @validation 이용해서 값 검증하기 + 예외처리까지!](https://applepick.tistory.com/135) <br>
 [2022/1/27 - Spring Boot gradle 환경에서 logback을 적용해보자.](https://applepick.tistory.com/134) <br>
@@ -25,4 +28,3 @@
 [2022/1/17 - 의존관계 주입시 생성자 주입을 사용하자!](https://applepick.tistory.com/130) <br>
 [2022/1/15 - 스프링에서 싱글톤 적용 시 주의 할 점! ⚠️](https://applepick.tistory.com/129) <br>
 [2022/1/12 - BeanFactory과 ApplicationContext는 왜 사용해야할까?](https://applepick.tistory.com/128) <br>
-[2022/1/10 - Spring Bean 상속관계와 테스트코드[Juint5]](https://applepick.tistory.com/127) <br>
