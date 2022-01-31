@@ -14,7 +14,7 @@ for idx, feed in enumerate(rss_feed['entries']):
   
 markdown_text = """
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=sungmin github🎨&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sungmin_github😀&fontSize=70)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
