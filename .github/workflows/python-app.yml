@@ -4,12 +4,12 @@
 name: Python application
 
 on:
+  schedule:
+    - cron:  '30 5,17 * * *' # 주기적으로 실행하기 위한 스케줄링 - cron 설정
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-#   schedule:
-#     - cron:  '*/20 * * * *' # 주기적으로 실행하기 위한 스케줄링 - cron 설정
 
 jobs:
   build:
