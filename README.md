@@ -16,9 +16,10 @@
 ![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin69355&show_icons=true&theme=radical)[![Sungmin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin69355&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sungmin69355)
 
 
-
 😎 Latest Blog Post
 
+[2022/2/6 - HTTP API의 올바른 설계 방법](https://applepick.tistory.com/143) <br>
+[2022/2/5 - HTTP 특징 정리](https://applepick.tistory.com/142) <br>
 [2022/2/3 - [함께자라기 애자일로 가는 길]을 읽고 ✅](https://applepick.tistory.com/139) <br>
 [2022/1/31 - [객체지향의 사실과 오해]를 읽고](https://applepick.tistory.com/138) <br>
 [2022/1/31 - Spring 빈 스코프를 알아보자♻️](https://applepick.tistory.com/137) <br>
@@ -27,5 +28,3 @@
 [2022/1/27 - Spring Boot gradle 환경에서 logback을 적용해보자.](https://applepick.tistory.com/134) <br>
 [2022/1/25 - Bean의 생명주기 콜백](https://applepick.tistory.com/133) <br>
 [2022/1/20 - Bean 자동 주입 VS 수동 주입 어떤 걸 사용해야할까?](https://applepick.tistory.com/132) <br>
-[2022/1/19 - UnsatisfiedDependencyException 오류 해결!](https://applepick.tistory.com/131) <br>
-[2022/1/17 - 의존관계 주입시 생성자 주입을 사용하자!](https://applepick.tistory.com/130) <br>
