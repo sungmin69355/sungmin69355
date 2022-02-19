@@ -15,8 +15,11 @@
 
 ![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin69355&show_icons=true&theme=radical)[![Sungmin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin69355&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sungmin69355)
 
+
 😎 Latest Blog Post
 
+[2022/2/17 - [Spring Boot] 테스트 커버리지 툴 도입(JaCoCo)](https://applepick.tistory.com/146) <br>
+[2022/2/14 - Spring Boot 이미지업로드 (환경: gradle, java11,Spring Boot 2.6.2, thymeleaf)](https://applepick.tistory.com/145) <br>
 [2022/2/12 - 참고하면 좋은 URL 설계 개념](https://applepick.tistory.com/144) <br>
 [2022/2/6 - HTTP API의 올바른 설계 방법](https://applepick.tistory.com/143) <br>
 [2022/2/5 - HTTP 특징 정리](https://applepick.tistory.com/142) <br>
@@ -25,5 +28,3 @@
 [2022/1/31 - Spring 빈 스코프를 알아보자♻️](https://applepick.tistory.com/137) <br>
 [2022/1/30 - http 정리 예정](https://applepick.tistory.com/136) <br>
 [2022/1/29 - @validation 이용해서 값 검증하기 + 예외처리까지!](https://applepick.tistory.com/135) <br>
-[2022/1/27 - Spring Boot gradle 환경에서 logback을 적용해보자.](https://applepick.tistory.com/134) <br>
-[2022/1/25 - Bean의 생명주기 콜백](https://applepick.tistory.com/133) <br>
