@@ -15,8 +15,12 @@
 
 ![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin69355&show_icons=true&theme=radical)[![Sungmin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin69355&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sungmin69355)
 
+
 😎 Latest Blog Post
 
+[2022/2/24 - 파일럿 프로젝트 회고](https://applepick.tistory.com/149) <br>
+[2022/2/23 - Spring Boot에서 타임리프 이미지 동적 리소스 사용하기](https://applepick.tistory.com/148) <br>
+[2022/2/21 - [Spring Boot] mybatis update, delete 무한대기](https://applepick.tistory.com/147) <br>
 [2022/2/17 - [Spring Boot] 테스트 커버리지 툴 도입(JaCoCo)](https://applepick.tistory.com/146) <br>
 [2022/2/14 - Spring Boot 이미지업로드 (환경: gradle, java11,Spring Boot 2.6.2, thymeleaf)](https://applepick.tistory.com/145) <br>
 [2022/2/12 - 참고하면 좋은 URL 설계 개념](https://applepick.tistory.com/144) <br>
@@ -24,6 +28,3 @@
 [2022/2/5 - HTTP 특징 정리](https://applepick.tistory.com/142) <br>
 [2022/2/3 - [함께자라기 애자일로 가는 길]을 읽고 ✅](https://applepick.tistory.com/139) <br>
 [2022/1/31 - [객체지향의 사실과 오해]를 읽고](https://applepick.tistory.com/138) <br>
-[2022/1/31 - Spring 빈 스코프를 알아보자♻️](https://applepick.tistory.com/137) <br>
-[2022/1/30 - http 정리 예정](https://applepick.tistory.com/136) <br>
-[2022/1/29 - @validation 이용해서 값 검증하기 + 예외처리까지!](https://applepick.tistory.com/135) <br>
