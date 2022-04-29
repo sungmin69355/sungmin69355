@@ -16,9 +16,10 @@
 ![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin69355&show_icons=true&theme=radical)[![Sungmin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin69355&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sungmin69355)
 
 
-
 😎 Latest Blog Post
 
+[2022/4/25 - 템플릿 메서드 패턴](https://applepick.tistory.com/158) <br>
+[2022/4/19 - Spring에서 동시성 문제를 해결해보자! [+ThreadLocal]](https://applepick.tistory.com/157) <br>
 [2022/4/9 - 메서드 시그니처를 신중히 설계하자!](https://applepick.tistory.com/156) <br>
 [2022/3/19 - [index] B+-Tree, Hash Table](https://applepick.tistory.com/155) <br>
 [2022/3/16 - 가변인수는 신중하게!](https://applepick.tistory.com/154) <br>
@@ -27,5 +28,3 @@
 [2022/3/7 - 딱히 의미를 두고하진 않지만...[2022년 1분기]](https://applepick.tistory.com/151) <br>
 [2022/3/5 - [JPA] 엔티티 설계할 때 이 점을 주의하자!](https://applepick.tistory.com/150) <br>
 [2022/2/24 - 파일럿 프로젝트 회고](https://applepick.tistory.com/149) <br>
-[2022/2/23 - Spring Boot에서 타임리프 이미지 동적 리소스 사용하기](https://applepick.tistory.com/148) <br>
-[2022/2/21 - [Spring Boot] mybatis update, delete 무한대기](https://applepick.tistory.com/147) <br>
