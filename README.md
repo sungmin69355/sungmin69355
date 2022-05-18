@@ -11,11 +11,13 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
 
-![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin69355&show_icons=true&theme=radical)[![Sungmin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin69355&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sungmin69355)
+![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin69355&show_icons=true&theme=radical)
+[![Sungmin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin69355&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sungmin69355)
 
 
 😎 Latest Blog Post
 
+[2022/5/15 - 인터페이스 기반 프록시 VS 클래스 기반 프록시](https://applepick.tistory.com/160) <br>
 [2022/5/10 - 프록시 패턴과 데코레이터 패턴](https://applepick.tistory.com/159) <br>
 [2022/4/25 - 템플릿 메서드 패턴](https://applepick.tistory.com/158) <br>
 [2022/4/19 - Spring에서 동시성 문제를 해결해보자! [+ThreadLocal]](https://applepick.tistory.com/157) <br>
@@ -25,4 +27,3 @@
 [2022/3/13 - [디자인패턴] Domain Model Pattern vs Transaction Script Pattern](https://applepick.tistory.com/153) <br>
 [2022/3/10 - 익명 클래스하고 람다식은 어떤 상황일 때 사용해야할까?](https://applepick.tistory.com/152) <br>
 [2022/3/7 - 딱히 의미를 두고하진 않지만...[2022년 1분기]](https://applepick.tistory.com/151) <br>
-[2022/3/5 - [JPA] 엔티티 설계할 때 이 점을 주의하자!](https://applepick.tistory.com/150) <br>
