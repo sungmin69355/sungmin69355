@@ -10,8 +10,11 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
+
 😎 Latest Blog Post
 
+[2022/6/9 - API Spec Document가 꼭 필요하다....](https://applepick.tistory.com/163) <br>
+[2022/5/30 - [Spring] @RequestBody는 객체로 받자!](https://applepick.tistory.com/162) <br>
 [2022/5/21 - Reflection(리플렉션) 활용](https://applepick.tistory.com/161) <br>
 [2022/5/15 - 인터페이스 기반 프록시 VS 클래스 기반 프록시](https://applepick.tistory.com/160) <br>
 [2022/5/10 - 프록시 패턴과 데코레이터 패턴](https://applepick.tistory.com/159) <br>
@@ -20,5 +23,3 @@
 [2022/4/9 - 메서드 시그니처를 신중히 설계하자!](https://applepick.tistory.com/156) <br>
 [2022/3/19 - [index] B+-Tree, Hash Table](https://applepick.tistory.com/155) <br>
 [2022/3/16 - 가변인수는 신중하게!](https://applepick.tistory.com/154) <br>
-[2022/3/13 - [디자인패턴] Domain Model Pattern vs Transaction Script Pattern](https://applepick.tistory.com/153) <br>
-[2022/3/10 - 익명 클래스하고 람다식은 어떤 상황일 때 사용해야할까?](https://applepick.tistory.com/152) <br>
