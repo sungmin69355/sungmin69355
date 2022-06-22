@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
-
 😎 Latest Blog Post
 
+[2022/6/22 - 내가보려고 정리한 JPA OSIV(Open EntityManager In View)](https://applepick.tistory.com/164) <br>
 [2022/6/9 - API Spec Document가 꼭 필요하다....](https://applepick.tistory.com/163) <br>
 [2022/5/30 - [Spring] @RequestBody는 객체로 받자!](https://applepick.tistory.com/162) <br>
 [2022/5/21 - Reflection(리플렉션) 활용](https://applepick.tistory.com/161) <br>
@@ -23,4 +23,3 @@
 [2022/4/19 - Spring에서 동시성 문제를 해결해보자! [+ThreadLocal]](https://applepick.tistory.com/157) <br>
 [2022/4/9 - 메서드 시그니처를 신중히 설계하자!](https://applepick.tistory.com/156) <br>
 [2022/3/19 - [index] B+-Tree, Hash Table](https://applepick.tistory.com/155) <br>
-[2022/3/16 - 가변인수는 신중하게!](https://applepick.tistory.com/154) <br>
