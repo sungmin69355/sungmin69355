@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
-😎 Latest Blog Post
+😎 Blog Post
 
 [2022/6/22 - 내가보려고 정리한 JPA OSIV(Open EntityManager In View)](https://applepick.tistory.com/164) <br>
 [2022/6/9 - API Spec Document가 꼭 필요하다....](https://applepick.tistory.com/163) <br>
