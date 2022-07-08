@@ -11,8 +11,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
-😎 Blog Post
+😎 Blog Post~!
 
+[2022/7/3 - 120. Triangle (DP, DFS로 풀어보자!)](https://applepick.tistory.com/167) <br>
+[2022/7/2 - Java11 람다식에서 VAR를 사용할 수 있다고?](https://applepick.tistory.com/166) <br>
 [2022/6/30 - [지구최강 JPA 스터디] 1주차 영속성 컨텍스트란?](https://applepick.tistory.com/165) <br>
 [2022/6/22 - 내가보려고 정리한 JPA OSIV(Open EntityManager In View)](https://applepick.tistory.com/164) <br>
 [2022/6/9 - API Spec Document가 꼭 필요하다....](https://applepick.tistory.com/163) <br>
@@ -21,5 +23,3 @@
 [2022/5/15 - 인터페이스 기반 프록시 VS 클래스 기반 프록시](https://applepick.tistory.com/160) <br>
 [2022/5/10 - 프록시 패턴과 데코레이터 패턴](https://applepick.tistory.com/159) <br>
 [2022/4/25 - 템플릿 메서드 패턴](https://applepick.tistory.com/158) <br>
-[2022/4/19 - Spring에서 동시성 문제를 해결해보자! [+ThreadLocal]](https://applepick.tistory.com/157) <br>
-[2022/4/9 - 메서드 시그니처를 신중히 설계하자!](https://applepick.tistory.com/156) <br>
