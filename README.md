@@ -13,6 +13,7 @@
 
 😎 Blog Post~!
 
+[2022/7/13 - [지구최강 JPA 스터디] 2-3주차 몰아서 정리하자!](https://applepick.tistory.com/168) <br>
 [2022/7/3 - 120. Triangle (DP, DFS로 풀어보자!)](https://applepick.tistory.com/167) <br>
 [2022/7/2 - Java11 람다식에서 VAR를 사용할 수 있다고?](https://applepick.tistory.com/166) <br>
 [2022/6/30 - [지구최강 JPA 스터디] 1주차 영속성 컨텍스트란?](https://applepick.tistory.com/165) <br>
@@ -22,5 +23,3 @@
 [2022/5/21 - Reflection(리플렉션) 활용](https://applepick.tistory.com/161) <br>
 [2022/5/15 - 인터페이스 기반 프록시 VS 클래스 기반 프록시](https://applepick.tistory.com/160) <br>
 [2022/5/10 - 프록시 패턴과 데코레이터 패턴](https://applepick.tistory.com/159) <br>
-[2022/4/25 - 템플릿 메서드 패턴](https://applepick.tistory.com/158) <br>
-
