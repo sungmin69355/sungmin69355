@@ -4,8 +4,8 @@
 name: Python application
 
 on:
-#   schedule:
-#     - cron:  '30 5,17 * * *' # 주기적으로 실행하기 위한 스케줄링 - cron 설정, 블로그에 글리젠이 안 될 경우 push 실패(수정해야함) 
+  schedule:
+    - cron:  '30 23 1,15 * *' # 주기적으로 실행하기 위한 스케줄링 - cron 설정(매달 1,15일 23시 30분에 실행), 블로그에 글리젠이 안 될 경우 push 실패(수정해야함) 
   push:
     branches: [ main ]
   pull_request:
