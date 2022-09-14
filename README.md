@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
 😎 Blog Post~!
-
 [2022/8/14 - [지구최강 JPA 스터디] 6-7주차 연관관계 매핑 4가지와 단방향, 양방향!](https://applepick.tistory.com/170) <br>
 [2022/7/28 - [지구최강 JPA 스터디] 4-5주차 객체 설계 할때는 단방향으로!?](https://applepick.tistory.com/169) <br>
 [2022/7/13 - [지구최강 JPA 스터디] 2-3주차 몰아서 정리하자!](https://applepick.tistory.com/168) <br>
