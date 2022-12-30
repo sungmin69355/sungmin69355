@@ -1,18 +1,5 @@
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
-<p align="center">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
-<!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
-
 😎 Blog Post~!
-
 [2022/10/30 - 이팩티브 자바 아이템2 IllegalArgumentException](https://applepick.tistory.com/177) <br>
 [2022/10/9 - 이팩티브 자바 아이템1에서 열거타입](https://applepick.tistory.com/176) <br>
 [2022/10/8 - [지구최강 JPA 스터디] 8-9주차 JPA의 프록시 활용](https://applepick.tistory.com/175) <br>
