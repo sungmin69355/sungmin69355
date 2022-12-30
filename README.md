@@ -1,5 +1,6 @@
 
 😎 Blog Post~!
+
 [2022/10/30 - 이팩티브 자바 아이템2 IllegalArgumentException](https://applepick.tistory.com/177) <br>
 [2022/10/9 - 이팩티브 자바 아이템1에서 열거타입](https://applepick.tistory.com/176) <br>
 [2022/10/8 - [지구최강 JPA 스터디] 8-9주차 JPA의 프록시 활용](https://applepick.tistory.com/175) <br>
