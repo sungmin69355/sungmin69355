@@ -14,7 +14,6 @@ for idx, feed in enumerate(rss_feed['entries']):
   
 markdown_text = """
 😎 Blog Post~!
-
 """
 
 readme_text = f"{markdown_text}{latest_blog_post_list}" 
