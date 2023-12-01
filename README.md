@@ -1,6 +1,7 @@
 
 😎 Blog Post~!
 
+[2023/11/26 - docker: 'compose' is not a docker command.](https://applepick.tistory.com/189) <br>
 [2023/9/28 - Spring Batch Partitioner를 이용해서 병렬처리할 때 주의점!](https://applepick.tistory.com/188) <br>
 [2023/7/15 - Spring Batch(+Mybatis)에서 Commit하기 전 실행된 SQL 문의 개수를 확인하고싶으면?](https://applepick.tistory.com/187) <br>
 [2023/7/2 - ConcurrentHashMap의 get(), put() 분석](https://applepick.tistory.com/186) <br>
@@ -10,4 +11,3 @@
 [2023/4/5 - 회사에서 Spring batch 짜면서 삽질한거 정리](https://applepick.tistory.com/182) <br>
 [2023/1/24 - @Component는 어떻게 동작하는 걸까?](https://applepick.tistory.com/180) <br>
 [2023/1/9 - 221. Maximal Square](https://applepick.tistory.com/179) <br>
-[2022/12/31 - 2022년의 회고록은 성장의 해](https://applepick.tistory.com/178) <br>
